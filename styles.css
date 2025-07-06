@@ -6,7 +6,8 @@ div{
     background-color: #fff8e7;
     padding: 20px;
     width: 400px;
-    margin: 20px;
+    margin: 20px; 
+    border: 2px solid black;
 }
 
 .landing{
