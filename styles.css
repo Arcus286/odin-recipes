@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+}
+
+div{
+    background-color: #fff8e7;
+    padding: 20px;
+    width: 400px;
+    margin: 20px;
+}
+
+.landing{
+    font-size: 32px;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+a{
+    color: orange;
+}
+
+#sandwich,#pancakes,#parotha{
+    background-color: #fff8e7;
+    margin-left: 20px; 
+}
